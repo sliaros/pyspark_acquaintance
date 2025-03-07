@@ -1,0 +1,5 @@
+pyspark
+plotly
+requests
+numpy
+pandas
